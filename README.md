@@ -20,3 +20,4 @@ Projeto acadêmico de implementação de rede corporativa.
 
 ## Diagrama da Rede
 
+![Topologia da Rede](diagramas/diagrama.png)
