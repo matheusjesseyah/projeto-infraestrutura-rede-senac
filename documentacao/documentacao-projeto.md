@@ -96,12 +96,12 @@ ecommerce.noite
 
 8. Testes Realizados
 Teste de conectividade:
-ping 192.168.0.10
-ping 192.168.0.20
+ping 192.168.30.10
+ping 192.168.30.20
 
 Teste de acesso ao servidor web:
 Abrir navegador e acessar:
-http://192.168.0.20
+http://192.168.30.20
 
 Teste de autenticação:
 Login no domínio utilizando usuário criado no Active Directory.
