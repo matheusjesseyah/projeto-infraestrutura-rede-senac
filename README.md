@@ -20,4 +20,3 @@ Projeto acadêmico de implementação de rede corporativa.
 
 ## Diagrama da Rede
 
-(ver pasta diagramas)
