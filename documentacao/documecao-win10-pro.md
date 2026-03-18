@@ -4,7 +4,8 @@
 Esta documentação fornece um guia passo a passo detalhado para a instalação do Windows 10 Pro em um computador. Este processo é parte do projeto de infraestrutura de rede do SENAC, visando demonstrar conhecimentos em configuração de sistemas operacionais.
 
 ## Requisitos do Sistema
-Antes de iniciar a instalação, verifique se o hardware atende aos requisitos mínimos do Windows 10 Pro:
+para fazer a instalação e preciso verificar se o hardware atende aos requisitos mínimos do Windows 10 Pro antes de iniciar a instalação
+
 
 - **Processador:** 1 GHz ou superior (recomendado: 2 GHz ou superior)
 - **Memória RAM:** 2 GB (recomendado: 4 GB ou mais)
@@ -19,18 +20,14 @@ Antes de iniciar a instalação, verifique se o hardware atende aos requisitos m
 2. Clique em "Download da ferramenta agora" para baixar a Media Creation Tool.
 3. Execute a ferramenta e selecione "Criar mídia de instalação para outro computador".
 4. Escolha a edição "Windows 10 Pro" e a arquitetura (32-bit ou 64-bit, dependendo do hardware).
-5. Baixe a ISO ou crie um USB bootável diretamente.
+5. Baixe a ISO ou crie um USB bootável diretamente
 
 ### 2. Criação de Mídia Bootável
-#### Opção A: USB Bootável
+#### Criar um USB Bootável
 1. Baixe o Rufus: [https://rufus.ie/](https://rufus.ie/)
 2. Insira um USB de pelo menos 8 GB.
 3. Execute o Rufus e selecione a ISO do Windows 10.
 4. Clique em "Iniciar" para criar o USB bootável.
-
-#### Opção B: DVD
-1. Use um software como o Windows Disc Image Burner (integrado no Windows) ou ImgBurn.
-2. Grave a ISO em um DVD virgem.
 
 ## Processo de Instalação
 ### 1. Configuração da BIOS/UEFI
