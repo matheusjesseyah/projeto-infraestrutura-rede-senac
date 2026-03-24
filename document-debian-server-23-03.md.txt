@@ -1,2 +1,0 @@
-admin senha (123@senac)
-falta instalar wordpress(voltar na parte "wget http://wordpress.org/latest.tar.gz")
